@@ -4,4 +4,4 @@
 * CSS
 * JAVASCRIPT
 
-<img src='/pokedex/img/print.png' alt='print' />
+<img src='/src/img/print.png' alt='print' />
